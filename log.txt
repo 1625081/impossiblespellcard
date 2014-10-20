@@ -1,8 +1,8 @@
 搶曽摦嶌婰榐 --------------------------------------------- 
 巊偊傞僷僢僪偑懚嵼偟側偄傛偆偱偡丄巆擮
-DirectInput 偼惓忢偵弶婜壔偝傟傑偟偨
-儕僼儗僢僔儏儗乕僩偑60Hz偱偼偁傝傑偣傫
-夝憸搙 960 720偱婲摦偟傑偡
-D3DFMT_A8R8G8B8 傪僒億乕僩偟偰偄傑偣傫丄尭怓儌乕僪偱摦嶌偟傑偡
-DirectSound 偼惓忢偵弶婜壔偝傟傑偟偨
+DirectInput 已正常初始化
+刷新频率不为60Hz
+以分辨率 1280 960启动
+不支持 D3DFMT_A8R8G8B8、将以低颜色配置运行
+DirectSound 已正常初始化
 ---------------------------------------------------------- 
